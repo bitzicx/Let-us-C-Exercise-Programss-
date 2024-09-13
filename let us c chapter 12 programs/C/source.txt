@@ -1,0 +1,5 @@
+This is a sources txt file 
+this is second line of this file
+This is a programming Fundamentals lectrure
+isn't it?
+ok the last line 
